@@ -28,3 +28,7 @@ Demo:
 Can't wait to play the game? Click the link below and enjoy the game!
 
 https://devshah3007.github.io/Simon-Game/
+
+
+A word of caution: Use computer or laptop only to play the game. 
+Enjoy!!
